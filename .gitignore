@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+.terraform.lock.hcl
+Petclinic.png
+keypair.pem
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform
